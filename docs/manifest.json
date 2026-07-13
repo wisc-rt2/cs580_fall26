@@ -1,14 +1,14 @@
 {
-  "name": "CS639 Introduction to Robotic Systems",
-  "short_name": "CS639 Introduction to Robotic Systems",
-  "start_url": "/cs639_fall25/",
-  "scope": "/cs639_fall25/",
+  "name": "CS580 Intelligent Robotics",
+  "short_name": "CS580 Intelligent Robotics",
+  "start_url": "/cs580_fall26/",
+  "scope": "/cs580_fall26/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/cs639_fall25/favicon.svg",
+      "src": "/cs580_fall26/favicon.svg",
       "sizes": "512x512"
     }
   ]
