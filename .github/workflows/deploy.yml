@@ -1,3 +1,4 @@
+```yaml
 name: Build and deploy Hugo site to main/docs
 
 on:
@@ -11,21 +12,22 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.146.0'
-          extended: true
-
       - name: Pull theme submodules
         run: git submodule update --init --recursive
 
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.158.0"
+          extended: true
+
       - name: Build site
-        run: hugo --minify
+        run: hugo --minify --destination docs --cleanDestinationDir
 
       - name: Commit and push docs
         run: |
@@ -34,4 +36,4 @@ jobs:
           git add -A docs/
           git commit -m "Auto-build site [skip ci]" || echo "No changes to commit"
           git push
-
+```
