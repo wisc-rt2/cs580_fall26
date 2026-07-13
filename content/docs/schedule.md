@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Schedule"
 weight: 2
@@ -40,4 +39,3 @@ You can find homework solutions on Canvas.
 | Thu, 12/3 | 25: Guest Roboticist: [Jason Ma](https://jasonma2016.github.io/) | | HW4 Due (5pm) |
 | Tue, 12/8 | 26: Final Project Presentations | | |
 | Tue, 12/15 | Final Project Due | | |
-```
