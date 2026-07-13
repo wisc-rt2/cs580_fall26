@@ -1,27 +1,26 @@
-# CS 639: Introduction to Robotic Systems (**Fall 2025**)
+# CS 580: Intelligent Robotics (**Fall 2026**)
 <video autoplay loop muted playsinline style="max-width: 100%; height: auto;">
-  <source src="/cs639_fall25/cs639_website_videos.mp4" type="video/mp4">
+  <source src="/cs580_fall26/cs580_website_videos.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 ## Information
 
-- **Time:** Tuesdays and Thursdays from 11:00 AM – 12:15 PM
+- **Time:** Tuesdays and Thursdays from 9:30 AM – 10:45 AM
 - **Location:** Morgridge Hall, Room 2538
 - **Instructor:** Mike Hagenow (mhagenow@wisc.edu)
-- **Instructor Office Hours:** Tuesdays and Thursdays at 12:15 PM – 1:15 PM
+- **Instructor Office Hours:** Tuesdays from 10:45 AM – 12:00 PM
     - ABC (Anything But Class) Fridays 9:30 AM – 10:00 AM
 - **Instructor Office Location:** Morgridge Hall, Room 6584
-<!-- - **Peer Mentor (PM):** TBD
-- **PM Office Hours:** TBD
-- **PM Office Location:** TBD -->
-<!-- - **Syllabus:** [pdf] -->
+<!-- - **Teaching Assistant (TA):** Yuna Hwang
+- **TA Office Hours:** TBD
+- **TA Office Location:** TBD -->
 - **Piazza Webpage (for discussion and notifications):** [Link](https://piazza.com/wisc/fall2025/cs639003/home)
 - **Piazza Signup:** [Link](https://piazza.com/wisc/fall2025/cs639003)
 <!-- - **Canvas:** Canvas -->
 <!-- - **Homework Submission:** Gradescope -->
 
-> **Note:** For email, please put **[CS639]** in the subject title. Thanks!
+> **Note:** For email, please put **[CS580]** in the subject title. Thanks!
 
 ## Course Description
 

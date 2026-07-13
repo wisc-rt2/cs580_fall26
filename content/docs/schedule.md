@@ -15,8 +15,8 @@ You can find homework solutions on Canvas.
 | Tue, 9/8 | 2: Mechanisms and Configuration Spaces | MR 2.1-2.3, 2.5 | |
 | Thu, 9/10 | 3: Rigid Body Motion - 2D and Rotation Matrices | MR 3.1-3.2 | HW1 Released |
 | Tue, 9/15 | 4: Rigid Body Motion (3D) - Euler Angles and Axis-Angle | MR 3.2 & A.B, AR 2.4.4 B | |
-| Thu, 9/17 | 5: Quaternions and Rigid Body Motion (3D) - Transformations | MR A.B., AR 2.4.4 B, MR 3.3 | |
-| Tue, 9/22 | 6: More Examples and Rigid Body Motion | MR A.B., AR 2.4.4 B, MR 3.3 | |
+| Thu, 9/17 | 5: Rigid Body Motions (3D) - Quaternions | MR A.B., AR 2.4.4 B, MR 3.3 | |
+| Tue, 9/22 | 6: Rigid Body Motion (3D) - Transformations | MR A.B., AR 2.4.4 B, MR 3.3 | |
 | Thu, 9/24 | 7: Forward Kinematics and URDFs | MR 4, 4.2 | |
 | Tue, 9/29 | 8: Forward Kinematics and DH Parameters | MR A.C | HW1 Due (5pm) |
 | Thu, 10/1 | 9: Forward Kinematics and Differential Kinematics | MR 5.0, AR 3.3, Spong Robot Modeling and Control Ch 4 | |
