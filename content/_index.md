@@ -45,7 +45,7 @@ None of the textbooks are required, though you may find them helpful to aid in y
 ## Discussion Forum
 
 The instructor will post announcements, clarifications, hints, etc. on Piazza.  
-Students should check the CS639 Piazza page frequently throughout the term.  
+Students should check the CS580 Piazza page frequently throughout the term.  
 If you have a question, the best option is to post a message on Piazza.
 
 Helpful guidelines:
