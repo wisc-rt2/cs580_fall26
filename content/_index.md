@@ -7,16 +7,16 @@
 ## Information
 
 - **Time:** Tuesdays and Thursdays from 9:30 AM – 10:45 AM
-- **Location:** Morgridge Hall, Room 2538
+- **Location:** Morgridge Hall, Room B2550
 - **Instructor:** Mike Hagenow (mhagenow@wisc.edu)
 - **Instructor Office Hours:** Tuesdays from 10:45 AM – 12:00 PM
     - ABC (Anything But Class) Fridays 9:30 AM – 10:00 AM
 - **Instructor Office Location:** Morgridge Hall, Room 6584
-<!-- - **Teaching Assistant (TA):** Yuna Hwang
+- **Teaching Assistant (TA):** TBD
 - **TA Office Hours:** TBD
-- **TA Office Location:** TBD -->
-- **Piazza Webpage (for discussion and notifications):** [Link](https://piazza.com/wisc/fall2025/cs639003/home)
-- **Piazza Signup:** [Link](https://piazza.com/wisc/fall2025/cs639003)
+- **TA Office Location:** TBD
+- **Piazza Webpage (for discussion and notifications):** [Link](https://piazza.com/wisc/fall2026/cs580/home)
+- **Piazza Signup:** [Link](https://piazza.com/wisc/fall2026/cs580)
 <!-- - **Canvas:** Canvas -->
 <!-- - **Homework Submission:** Gradescope -->
 
@@ -24,13 +24,13 @@
 
 ## Course Description
 
-Robots are intelligent systems that plan, sense, and act on the physical world. The course offers an introduction to the different modeling and algorithmic approaches used broadly in robotics. By the end of this course, students should have a fundamental understanding of essential topics for building robot systems; including representations, kinematics, motion planning, perception, and control. This course emphasizes two classes of robot systems: manipulator arms and wheeled mobile platforms. Learning will take place through lectures, interactive discussions, hands-on programming assignments using simulated robots, and a final capstone project.
+Robots are intelligent systems that plan, sense, and act on the physical world. In this course, we offer an introduction to the different modeling and algorithmic approaches used broadly in robotics. By the end of this course, you will gain a fundamental understanding of essential topics for building robot systems; including representations, kinematics, motion planning, perception, state estimation, learning, and control. We will discuss two main classes of robot systems: robot arms and mobile robots. In addition to lectures, you will have the opportunity to program simulated robots as part of homework assignments, participate in discussions on topics like robot learning, and to complete a final capstone project where you develop a robot system leveraging the tools discussed in the class. The class has a midterm exam covering most of the class concepts, but no final exam (only the final project).
 
 ## Prerequisites
 
 Previous programming experience is required. Students entering this class are expected to have background knowledge in calculus, linear algebra, and probability. Students who do not fit this profile must seek permission from the instructor prior to enrolling.
 
-(COMP SCI 400 or 320) and (MATH 320, 340, 341, 345 or 375) and (STAT 311, 324, 333, 340, 371, STAT/MATH 309, 431, MATH 331 or 531)
+(COMP SCI 400 or 320) and (MATH 320, 340, 341, 345 or 375) and (STAT 311, 324, 333, 340, 371, STAT/MATH 309, 431, MATH 331 or 531), or grad/professional standing.
 
 
 ## Recommended Textbooks
