@@ -64,3 +64,5 @@ Grading will be based on:
 - Midterm Exam: 30%
 - Final Project: 25%
 
+## Letters of Recommendation
+As a general policy, I do not provide letters of recommendation based on CS580 for students who are currently enrolled in the course. You want strong letters of recommendation that provide concrete evidence of your skills and past work. While the course is still in progress, it is difficult for me to write a compelling letter because I cannot point to your final performance in the class or discuss the results of your final project. However, I am always happy to help students brainstorm potential letter writers. If this might be useful, please come by ABC office hours!
