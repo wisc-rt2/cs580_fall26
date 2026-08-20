@@ -12,7 +12,7 @@
 - **Instructor Office Hours:** Tuesdays from 10:45 AM – 12:00 PM
     - ABC (Anything But Class) Fridays 10:30 AM – 11:00 AM
 - **Instructor Office Location:** Morgridge Hall, Room 6584
-- **Teaching Assistant (TA):** TBD
+- **Teaching Assistant (TA):** Yuna Hwang (yhwang56@wisc.edu)
 - **TA Office Hours:** TBD
 - **TA Office Location:** TBD
 - **Piazza Webpage (for discussion and notifications):** [Link](https://piazza.com/wisc/fall2026/cs580/home)
@@ -60,8 +60,8 @@ You are also welcome to come to office hours for individual discussion.
 Grading will be based on:
 
 - Participation (e.g., polls, responses, feedback): 5%
-- Programming Assignments: 40%
-- Midterm Exam: 30%
+- Programming Assignments: 30%
+- Midterm Exams: 40%
 - Final Project: 25%
 
 ## Letters of Recommendation
