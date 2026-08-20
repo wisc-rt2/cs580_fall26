@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CS580 Intelligent Robotics</title><link>https://wisc-rt2.github.io/cs580_fall26/</link><description>Recent content on CS580 Intelligent Robotics</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://wisc-rt2.github.io/cs580_fall26/index.xml" rel="self" type="application/rss+xml"/><item><title>Syllabus</title><link>https://wisc-rt2.github.io/cs580_fall26/docs/syllabus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wisc-rt2.github.io/cs580_fall26/docs/syllabus/</guid><description>&lt;h1 id="syllabus"&gt;Syllabus&lt;a class="anchor" href="#syllabus"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;!-- To get the embedded link below, do file -&gt; share -&gt; publish to web in google docs and copy the embed link--&gt;
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; border: 2px solid #8E1E24; border-radius: 8px;"&gt;
- &lt;iframe src="https://docs.google.com/document/d/1GfrWGcRDyAO9-OF4VAyolkQZ3xKUPr7U/pub?embedded=true" 
+ &lt;iframe src="https://docs.google.com/document/d/e/2PACX-1vTqrxCtZsgx9ssIH4wyRDV1qkAGiieH0FiJHF42C5OFpnx9S_ENzmy7TZvnj_sRLw/pub?embedded=true" 
  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 8px;" 
  frameborder="0"&gt;&lt;/iframe&gt;
 &lt;/div&gt;
@@ -92,7 +93,7 @@
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;Thu, 10/15&lt;/td&gt;
- &lt;td&gt;&lt;strong&gt;Exam 1&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Midterm Exam 1&lt;/td&gt;
  &lt;td&gt;&lt;/td&gt;
  &lt;td&gt;&lt;/td&gt;
  &lt;/tr&gt;
@@ -142,11 +143,11 @@
  &lt;td&gt;Thu, 11/12&lt;/td&gt;
  &lt;td&gt;20: Particle Filters (and Exam 2 Discussion)&lt;/td&gt;
  &lt;td&gt;PR 4.2, 10.1, &lt;a href="https://drive.google.com/file/d/11hIzXgTiYVdNObwcw5_FQZ3_lUWBFyAo/view?usp=sharing"&gt;PF code&lt;/a&gt;&lt;/td&gt;
- &lt;td&gt;Exam 2 Instructions &amp;amp; Practice&lt;/td&gt;
+ &lt;td&gt;Exam 2 Practice&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;Tue, 11/17&lt;/td&gt;
- &lt;td&gt;&lt;strong&gt;Exam 2&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Midterm Exam 2&lt;/td&gt;
  &lt;td&gt;&lt;/td&gt;
  &lt;td&gt;&lt;/td&gt;
  &lt;/tr&gt;
