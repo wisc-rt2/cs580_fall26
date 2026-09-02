@@ -14,7 +14,7 @@
 - **Instructor Office Location:** Morgridge Hall, Room 6584
 - **Teaching Assistant (TA):** Yuna Hwang (yhwang56@wisc.edu)
 - **TA Office Hours:** Monday 11am-12pm, Thursday 1-2pm
-- **TA Office Location:** Morgridge Hall B2532
+- **TA Office Location:** Morgridge Hall 6617
 - **Piazza Webpage (for discussion and notifications):** [Link](https://piazza.com/wisc/fall2026/cs580/home)
 - **Piazza Signup:** [Link](https://piazza.com/wisc/fall2026/cs580)
 <!-- - **Canvas:** Canvas -->
