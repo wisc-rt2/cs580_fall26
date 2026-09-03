@@ -37,6 +37,6 @@ You can find homework solutions on Canvas.
 | Tue, 11/24 | 22: PID Control | MR 11.2, [Controls Code](https://drive.google.com/file/d/1eqWvp7tTL_BjVCyGoygnwavRopkIUTwC/view?usp=sharing) | |
 | Thu, 11/26 | No Class. Happy Thanksgiving! | | |
 | Tue, 12/1 | 23: Modern Techniques – Diffusion and VLA Models | [SayCan](https://say-can.github.io/), [Diffusion Policy](https://diffusion-policy.cs.columbia.edu/), [OpenVLA](https://openvla.github.io/) | |
-| Thu, 12/3 | 24: Guest Roboticist: TBD | | HW4 Due (5pm) |
+| Thu, 12/3 | 24: Guest Roboticist: [Karl Pertsch](https://kpertsch.github.io/) | | HW4 Due (5pm) |
 | Tue, 12/8 | 25: Final Project Presentations | | |
 | Tue, 12/15 | Final Project Due | | |
