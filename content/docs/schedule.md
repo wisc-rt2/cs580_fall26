@@ -21,8 +21,8 @@ You can find homework solutions on Canvas.
 | Tue, 9/29 | 8: Forward Kinematics and DH Parameters | MR A.C | HW1 Due (5pm) |
 | Thu, 10/1 | 9: Forward Kinematics and Differential Kinematics | MR 5.0, AR 3.3, Spong Robot Modeling and Control Ch 4 | |
 | Tue, 10/6 | 10: Inverse Kinematics | MR 6, 6.2, AR 3.4 | HW2 Released |
-| Thu, 10/8 | 11: Intro to Planning and Graph-based Methods | MR 10.2 | |
-| Tue, 10/13 | 12: Sample-based Planning Methods (and Exam 1 Discussion) | MR 10.5 | Exam 1 Instructions & Practice |
+| Thu, 10/8 | 11: Intro to Planning and Graph-based Methods | MR 10.2 | Exam 1 Instructions & Practice |
+| Tue, 10/13 | 12: Sample-based Planning Methods (and Exam 1 Discussion) | MR 10.5 |  |
 | Thu, 10/15 | Midterm Exam 1 | | |
 | Tue, 10/20 | 13: Trajectory Generation and Trajectory Optimization | MR 9.1-9.3 | HW2 Due (5pm), HW3 Released |
 | Thu, 10/22 | 14: Trajectory Optimization | [Matthew Kelley's Trajectory Optimization Tutorials](https://www.matthewpeterkelly.com/tutorials/trajectoryOptimization/index.html), [TrajOpt Exercise](https://drive.google.com/file/d/1wRc27Q2Guf7VUTQ79IuMvezCYc3afJVB/view?usp=sharing) | |
