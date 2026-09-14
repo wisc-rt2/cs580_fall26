@@ -14,7 +14,7 @@ You can find homework solutions on Canvas.
 | Thu, 9/3 | [1: Course Overview and ‘What is a Robot’](https://drive.google.com/file/d/1ylUhjVuJGFa7gfKJ67jSMXGoMV3jkkYl/view?usp=sharing) | N/A | |
 | Tue, 9/8 | [2: Mechanisms and Configuration Spaces](https://drive.google.com/file/d/1RbDn3WCdj1Yu7qbEczA8q51JVVmkdbG1/view?usp=sharing) | MR 2.1-2.3, 2.5 | |
 | Thu, 9/10 | [3: Rigid Body Motion - 2D and Rotation Matrices](https://drive.google.com/file/d/18hiCYv7RrkYClpXF1aInDFPlrqKvVCUx/view?usp=sharing) | MR 3.1-3.2 | [HW1 Released](https://drive.google.com/file/d/1nlj3SDpxYbloPxcsE1QQyck4PMtmLw8p/view?usp=sharing) |
-| Tue, 9/15 | [4: Rigid Body Motion (3D) - Euler Angles and Axis-Angle](https://drive.google.com/file/d/1CoNqiTFGCPwVPbp4oA3d30b2yHYcGiOi/view?usp=sharing) | MR 3.2 & A.B, AR 2.4.4 B [(optional axis-angle partial derivation)[https://drive.google.com/file/d/1PLwqPjBIG3Eu-uWoWB_DR_QBbQJNXy3D/view?usp=sharing]| |
+| Tue, 9/15 | [4: Rigid Body Motion (3D) - Euler Angles and Axis-Angle](https://drive.google.com/file/d/1CoNqiTFGCPwVPbp4oA3d30b2yHYcGiOi/view?usp=sharing) | MR 3.2 & A.B, AR 2.4.4 B [(optional axis-angle partial derivation)](https://drive.google.com/file/d/1PLwqPjBIG3Eu-uWoWB_DR_QBbQJNXy3D/view?usp=sharing)| |
 | Thu, 9/17 | 5: Rigid Body Motions (3D) - Quaternions | MR A.B., AR 2.4.4 B | |
 | Tue, 9/22 | 6: Rigid Body Motion (3D) - Transformations | MR 3.3 | |
 | Thu, 9/24 | 7: Forward Kinematics and URDFs | MR 4, 4.2 | |
