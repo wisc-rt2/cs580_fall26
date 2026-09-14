@@ -13,7 +13,7 @@
     - ABC (Anything But Class) Fridays 10:30 AM – 11:00 AM
 - **Instructor Office Location:** Morgridge Hall, Room 6584
 - **Teaching Assistant (TA):** Yuna Hwang (yhwang56@wisc.edu)
-- **TA Office Hours:** Monday 11am-12pm, Thursday 1-2pm
+- **TA Office Hours:** Monday 10am-11am, Thursday 1-2pm
 - **TA Office Location:** Morgridge Hall 6617
 - **Piazza Webpage (for discussion and notifications):** [Link](https://piazza.com/wisc/fall2026/cs580/home)
 - **Piazza Signup:** [Link](https://piazza.com/wisc/fall2026/cs580)
