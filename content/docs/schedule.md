@@ -18,7 +18,7 @@ You can find homework solutions on Canvas.
 | Thu, 9/17 | [5: Rigid Body Motions (3D) - Quaternions](https://drive.google.com/file/d/1l0eL-yChieL-_sN9KZXVvqqzGRYyQJXA/view?usp=sharing) | MR A.B., AR 2.4.4 B | |
 | Tue, 9/22 | [6: Rigid Body Motion (3D) - Transformations](https://drive.google.com/file/d/1wRZtU8bx7Ne2MK5StIZB2j9TgJJgqEoF/view?usp=sharing) | MR 3.3 | |
 | Thu, 9/24 | [7: Forward Kinematics and URDFs](https://drive.google.com/file/d/1At6Ssmp2IjesXtQPMWzLY3_uaQGIx_XZ/view?usp=sharing) | MR 4 (intro section), 4.2 | |
-| Tue, 9/29 | [8: Forward Kinematics and DH Parameters](https://docs.google.com/presentation/d/1FXauOpH7NazcJkZ_Jb2eYGQ6jZUeIrH5/edit?usp=sharing&ouid=117057397798946903044&rtpof=true&sd=true) | MR A.C | HW1 Due (5pm) |
+| Tue, 9/29 | [8: Forward Kinematics and DH Parameters](https://drive.google.com/file/d/1snXm3F2ga4oF-MbwA9eb05ldWNLRi2my/view?usp=sharing) | MR A.C | HW1 Due (5pm) |
 | Thu, 10/1 | 9: Forward Kinematics and Differential Kinematics | MR 5.0, AR 3.3, Spong Robot Modeling and Control Ch 4 | |
 | Tue, 10/6 | 10: Inverse Kinematics | MR 6, 6.2, AR 3.4 | HW2 Released |
 | Thu, 10/8 | 11: Intro to Planning and Graph-based Methods | MR 10.2 | Exam 1 Instructions & Practice |
