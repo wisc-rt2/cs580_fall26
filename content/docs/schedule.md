@@ -20,8 +20,8 @@ You can find homework solutions on Canvas.
 | Thu, 9/24 | [7: Forward Kinematics and URDFs](https://drive.google.com/file/d/1At6Ssmp2IjesXtQPMWzLY3_uaQGIx_XZ/view?usp=sharing) | MR 4 (intro section), 4.2 | |
 | Tue, 9/29 | [8: Forward Kinematics and DH Parameters](https://drive.google.com/file/d/1snXm3F2ga4oF-MbwA9eb05ldWNLRi2my/view?usp=sharing) | MR A.C | HW1 Due (5pm) |
 | Thu, 10/1 | [9: Forward Kinematics and Differential Kinematics](https://drive.google.com/file/d/1sSYwLDHP4aPSj-noPFk8XEGchj4btddS/view?usp=sharing) | MR 5.0, AR 3.3, Spong Robot Modeling and Control Ch 4 | |
-| Tue, 10/6 | 10: Inverse Kinematics | MR 6, 6.2, AR 3.4 | HW2 Released |
-| Thu, 10/8 | 11: Intro to Planning and Graph-based Methods | MR 10.2 | Exam 1 Instructions & Practice |
+| Tue, 10/6 | [10: Inverse Kinematics](https://drive.google.com/file/d/1dT_EmMb2nk24CbA0b36RD88xugQAJ4sb/view?usp=sharing) | MR 6, 6.2, AR 3.4 | [HW2 Released](https://drive.google.com/file/d/1LduOeRuPuSoPFm9-YUlnGVF4M7ILfelP/view?usp=sharing) |
+| Thu, 10/8 | 11: Intro to Planning and Graph-based Methods | MR 10.2 | [Exam 1 Instructions & Practice](https://drive.google.com/file/d/1Bg7_DstFH1ZBSXLm5xsv0bGXH2Gm7wn0/view?usp=sharing) |
 | Tue, 10/13 | 12: Sample-based Planning Methods (and Exam 1 Discussion) | MR 10.5 |  |
 | Thu, 10/15 | Midterm Exam 1 | | |
 | Tue, 10/20 | 13: Trajectory Generation and Trajectory Optimization | MR 9.1-9.3 | HW2 Due (5pm), HW3 Released |
