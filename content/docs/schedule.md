@@ -24,7 +24,7 @@ You can find homework solutions on Canvas.
 | Thu, 10/8 | [11: Intro to Planning and Graph-based Methods](https://drive.google.com/file/d/1THgz6rNsI_O8ez2QTEm0aBZAbQQsnLMX/view?usp=sharing) | MR 10.2 | [Exam 1 Instructions & Practice](https://drive.google.com/file/d/1Bg7_DstFH1ZBSXLm5xsv0bGXH2Gm7wn0/view?usp=sharing), [2nd A* Example](https://drive.google.com/file/d/1hH6_RyHKXUETyZHC1enWQpjMYgV0RUx2/view?usp=sharing) |
 | Tue, 10/13 | [12: Sample-based Planning Methods](https://drive.google.com/file/d/1XWwlbL8voHRkuACLU57IGpztEP2H6GEm/view?usp=sharing) | MR 10.5 |  |
 | Thu, 10/15 | Midterm Exam 1 | | |
-| Tue, 10/20 | 13: Trajectory Generation and Trajectory Optimization | MR 9.1-9.3 | HW2 Due (5pm), HW3 Released |
+| Tue, 10/20 | [13: Trajectory Generation and Trajectory Optimization](https://drive.google.com/file/d/1DimNXZtjYAUYYQ3jef1Te9SRuqfx5fJU/view?usp=sharing) | MR 9.1-9.3 | HW2 Due (5pm), [HW3 Released](https://drive.google.com/file/d/1icovhS8zs0zCgJ6L5koHOWlI2dFju8PZ/view?usp=sharing) |
 | Thu, 10/22 | 14: Trajectory Optimization | [Matthew Kelley's Trajectory Optimization Tutorials](https://www.matthewpeterkelly.com/tutorials/trajectoryOptimization/index.html), [TrajOpt Exercise](https://drive.google.com/file/d/1wRc27Q2Guf7VUTQ79IuMvezCYc3afJVB/view?usp=sharing) | |
 | Tue, 10/27 | 15: Hierarchy and FSMs (and Project Introduction) | AR 11.2-11.4 | Final Project Released |
 | Thu, 10/29 | 16: Perception | AR 7.1, 8 | |
