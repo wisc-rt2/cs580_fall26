@@ -25,7 +25,7 @@ You can find homework solutions on Canvas.
 | Tue, 10/13 | [12: Sample-based Planning Methods](https://drive.google.com/file/d/1XWwlbL8voHRkuACLU57IGpztEP2H6GEm/view?usp=sharing) | MR 10.5 |  |
 | Thu, 10/15 | Midterm Exam 1 | | |
 | Tue, 10/20 | [13: Trajectory Generation and Trajectory Optimization](https://drive.google.com/file/d/1DimNXZtjYAUYYQ3jef1Te9SRuqfx5fJU/view?usp=sharing) | MR 9.1-9.3 | HW2 Due (5pm), [HW3 Released](https://drive.google.com/file/d/1icovhS8zs0zCgJ6L5koHOWlI2dFju8PZ/view?usp=sharing) |
-| Thu, 10/22 | 14: Trajectory Optimization | [Matthew Kelley's Trajectory Optimization Tutorials](https://www.matthewpeterkelly.com/tutorials/trajectoryOptimization/index.html), [TrajOpt Exercise](https://drive.google.com/file/d/1wRc27Q2Guf7VUTQ79IuMvezCYc3afJVB/view?usp=sharing) | [Final Project Released](https://drive.google.com/file/d/12ILUErooYV1FyQ7Ws9YainFF2Ng6IxlL/view?usp=sharing) |
+| Thu, 10/22 | [14: Trajectory Optimization](https://drive.google.com/file/d/1mANu6fku0cMhwkBcvYDNo-lly2I1CYnZ/view?usp=sharing) | [Matthew Kelley's Trajectory Optimization Tutorials](https://www.matthewpeterkelly.com/tutorials/trajectoryOptimization/index.html), [TrajOpt Exercise](https://drive.google.com/file/d/1V0gwyWHbawwIpu7FCJs1rlWVkwtOVIeL/view?usp=sharing) | [Final Project Released](https://drive.google.com/file/d/12ILUErooYV1FyQ7Ws9YainFF2Ng6IxlL/view?usp=sharing) |
 | Tue, 10/27 | 15: Hierarchy and FSMs (and Project Introduction) | AR 11.2-11.4 | |
 | Thu, 10/29 | 16: Perception | AR 7.1, 8 | |
 | Tue, 11/3 | 17: Uncertainty and State Estimation Fundamentals | PR 2.2-2.3 | HW3 Due (5pm) |
