@@ -28,7 +28,7 @@ You can find homework solutions on Canvas.
 | Thu, 10/22 | [14: Trajectory Optimization](https://drive.google.com/file/d/1mANu6fku0cMhwkBcvYDNo-lly2I1CYnZ/view?usp=sharing) | [Matthew Kelley's Trajectory Optimization Tutorials](https://www.matthewpeterkelly.com/tutorials/trajectoryOptimization/index.html), [TrajOpt Exercise](https://drive.google.com/file/d/1V0gwyWHbawwIpu7FCJs1rlWVkwtOVIeL/view?usp=sharing) | [Final Project Released](https://drive.google.com/file/d/12ILUErooYV1FyQ7Ws9YainFF2Ng6IxlL/view?usp=sharing) |
 | Tue, 10/27 | [15: Hierarchy and FSMs (and Project Introduction)](https://drive.google.com/file/d/13czPdRE1gY1NKoYlsGyKv4AF-tpYTqnt/view?usp=sharing) | AR 11.2-11.4 | |
 | Thu, 10/29 | [16: Perception](https://drive.google.com/file/d/1csCNHCNH5tQ96Y6EEZ7-9YX4cL46403r/view?usp=sharing) | AR 7.1, 8 | |
-| Tue, 11/3 | 17: Uncertainty and State Estimation Fundamentals | PR 2.2-2.3 | HW3 Due (5pm) |
+| Tue, 11/3 | [17: Uncertainty and State Estimation Fundamentals](https://drive.google.com/file/d/1UH4YUw-RYJxGHnJ_7A59v7gWV8esxSnW/view?usp=sharing) | PR 2.2-2.3 | HW3 Due (5pm) |
 | Thu, 11/5 | 18: Bayes Filters | PR 2.4 | |
 | Tue, 11/10 | 19: Kalman Filters | PR 3.2-3.3 | Project Proposal Due (5pm) |
 | Thu, 11/12 | 20: Particle Filters (and Exam 2 Discussion) | PR 4.2, 10.1, [PF code](https://drive.google.com/file/d/11hIzXgTiYVdNObwcw5_FQZ3_lUWBFyAo/view?usp=sharing) | Exam 2 Practice |
