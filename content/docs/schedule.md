@@ -30,8 +30,8 @@ You can find homework solutions on Canvas.
 | Thu, 10/29 | [16: Perception](https://drive.google.com/file/d/1csCNHCNH5tQ96Y6EEZ7-9YX4cL46403r/view?usp=sharing) | AR 7.1, 8 | |
 | Tue, 11/3 | [17: Uncertainty and State Estimation Fundamentals](https://drive.google.com/file/d/1UH4YUw-RYJxGHnJ_7A59v7gWV8esxSnW/view?usp=sharing) | PR 2.2-2.3 | HW3 Due (5pm) |
 | Thu, 11/5 | [18: Bayes Filters](https://drive.google.com/file/d/19XaZ_QSoM70VvgdlikWdsYvIYs5cBIGv/view?usp=sharing) | PR 2.4 | |
-| Tue, 11/10 | 19: Kalman Filters | PR 3.2-3.3 | Project Proposal Due (5pm) |
-| Thu, 11/12 | 20: Particle Filters (and Exam 2 Discussion) | PR 4.2, 10.1, [PF code](https://drive.google.com/file/d/11hIzXgTiYVdNObwcw5_FQZ3_lUWBFyAo/view?usp=sharing) | Exam 2 Practice |
+| Tue, 11/10 | [19: Kalman Filters (and Exam 2 Discussion)](https://drive.google.com/file/d/1BNS2XQhwYApVOtx0p79C4ywkbXm-DxaQ/view?usp=sharing) | PR 3.2-3.3 | [Exam 2 Practice](https://drive.google.com/file/d/1bZ6A8EIUwtXcuWU4DwQMNI1Ya_FLSNRV/view?usp=sharing), Project Proposal Due (5pm) |
+| Thu, 11/12 | 20: Particle Filters | PR 4.2, 10.1 | [PF code](https://drive.google.com/file/d/11hIzXgTiYVdNObwcw5_FQZ3_lUWBFyAo/view?usp=sharing) |  |
 | Tue, 11/17 | Midterm Exam 2 | | |
 | Thu, 11/19 | 21: Feedback Control Introduction | MR 11.1-11.2 | HW4 Released |
 | Tue, 11/24 | 22: PID Control | MR 11.2, [Controls Code](https://drive.google.com/file/d/1eqWvp7tTL_BjVCyGoygnwavRopkIUTwC/view?usp=sharing) | |
