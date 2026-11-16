@@ -33,7 +33,7 @@ You can find homework solutions on Canvas.
 | Tue, 11/10 | [19: Kalman Filters (and Exam 2 Discussion)](https://drive.google.com/file/d/1BNS2XQhwYApVOtx0p79C4ywkbXm-DxaQ/view?usp=sharing) | PR 3.2-3.3 | [Exam 2 Practice](https://drive.google.com/file/d/1bZ6A8EIUwtXcuWU4DwQMNI1Ya_FLSNRV/view?usp=sharing), Project Proposal Due (5pm) |
 | Thu, 11/12 | [20: Particle Filters](https://drive.google.com/file/d/1ng__p28wuwvxinrYrktYIdRcr0IkFT1B/view?usp=sharing) | PR 4.2, 10.1 | [PF code](https://drive.google.com/file/d/1IsFz2xqJDZLqVePm7juPXKs9AugHjLvh/view?usp=sharing) |  |
 | Tue, 11/17 | Midterm Exam 2 | | |
-| Thu, 11/19 | 21: Feedback Control Introduction | MR 11.1-11.2 | HW4 Released |
+| Thu, 11/19 | [21: Feedback Control Introduction](https://drive.google.com/file/d/17D1fVBELkxdaEBemI0i_b-hoQvZO0Fha/view?usp=sharing) | MR 11.1-11.2 | HW4 Released |
 | Tue, 11/24 | 22: PID Control | MR 11.2, [Controls Code](https://drive.google.com/file/d/1eqWvp7tTL_BjVCyGoygnwavRopkIUTwC/view?usp=sharing) | |
 | Thu, 11/26 | No Class. Happy Thanksgiving! | | |
 | Tue, 12/1 | 23: Modern Techniques – Diffusion and VLA Models | [SayCan](https://say-can.github.io/), [Diffusion Policy](https://diffusion-policy.cs.columbia.edu/), [OpenVLA](https://openvla.github.io/) | |
